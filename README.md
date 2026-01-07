@@ -1,16 +1,22 @@
-# portfolio_web_app
+# Flutter Portfolio Website 🌐
 
-This is a portfolio web application
+A personal portfolio website built using Flutter Web.
 
-## Getting Started
+## 🚀 Features
+- Responsive design
+- Smooth animations
+- Cross-platform support
+- Deployed on Netlify
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Netlify
 
-A few resources to get you started if this is your first Flutter project:
+## 🌍 Live Demo
+https://your-site-name.netlify.app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+```bash
+flutter pub get
+flutter run -d chrome
