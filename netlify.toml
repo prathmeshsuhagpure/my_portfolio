@@ -1,5 +1,5 @@
 [build]
-command = "bash netlify/functions/flutter.sh && flutter build web"
+command = "bash netlify/functions/flutter.sh"
 publish = "build/web"
 
 [[redirects]]
