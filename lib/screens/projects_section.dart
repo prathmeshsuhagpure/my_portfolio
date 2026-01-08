@@ -43,9 +43,9 @@ class ProjectsSection extends StatelessWidget {
                 isTablet,
               ),
               _buildProjectCard(
-                'Fitness Tracker',
-                'Track workouts, calories, and progress with AI-powered recommendations.',
-                ['Flutter', 'ML Kit', 'HealthKit'],
+                'Tic Tac Toe Game',
+                'A polished Tic Tac Toe game showcasing clean UI, game logic, and responsive interactions.',
+                ['Java'],
                 isMobile,
                 isTablet,
               ),

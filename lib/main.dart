@@ -35,7 +35,7 @@ class Footer extends StatelessWidget {
       decoration: BoxDecoration(
         border: Border(
           top: BorderSide(
-            color: const Color(0xFF64FFDA).withOpacity(0.2),
+            color: const Color(0xFF64FFDA).withValues(alpha: 0.2),
             width: 1,
           ),
         ),
@@ -43,9 +43,9 @@ class Footer extends StatelessWidget {
       child: Column(
         children: [
           Text(
-            '© 2026 Flutter Developer. Built with Flutter 💙',
+            'Built with Flutter 💙',
             style: TextStyle(
-              color: Colors.white.withOpacity(0.5),
+              color: Colors.white.withValues(alpha: 0.5),
               fontSize: 14,
             ),
           ),
