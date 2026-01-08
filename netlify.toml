@@ -1,0 +1,8 @@
+[build]
+command = "bash netlify/functions/flutter.sh && flutter build web"
+publish = "build/web"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
